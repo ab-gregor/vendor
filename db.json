@@ -1,0 +1,38 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "userName": "admin47",
+      "role": "admin",
+      "service": ""
+    },
+    {
+      "id": 2,
+      "userName": "13AD",
+      "role": "vendor",
+      "service": "Music"
+    },
+    {
+      "id": 3,
+      "userName": "Paragon",
+      "role": "vendor",
+      "service": "Food"
+    },
+    {
+      "id": 4,
+      "userName": "ABC Decor",
+      "role": "vendor",
+      "service": "Decoration"
+    },
+    {
+      "id": 5,
+      "userName": "user1",
+      "role": "user",
+      "service": ""
+    }
+  ],
+  "Event": [
+    "13AD",
+    "Paragon"
+  ]
+}
